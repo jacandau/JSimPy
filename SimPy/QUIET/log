@@ -1,0 +1,333 @@
+<class '__main__.ATLComponent'> Stringer_top_0_batch_of_8 created and added to store Str_ATL_2D_store queue at time 0
+<class '__main__.ATLComponent'> Stringer_top_1_batch_of_8 created and added to store Str_ATL_2D_store queue at time 0
+<class '__main__.ATLComponent'> Stringer_top_2_batch_of_8 created and added to store Str_ATL_2D_store queue at time 0
+<class '__main__.ATLComponent'> Stringer_top_3_batch_of_8 created and added to store Str_ATL_2D_store queue at time 0
+<class '__main__.ATLComponent'> Stringer_top_4_batch_of_8 created and added to store Str_ATL_2D_store queue at time 0
+<class '__main__.ATLComponent'> Stringer_top_5_batch_of_8 created and added to store Str_ATL_2D_store queue at time 0
+<class '__main__.ATLComponent'> Stringer_top_6_batch_of_8 created and added to store Str_ATL_2D_store queue at time 0
+<class '__main__.ATLComponent'> Stringer_top_7_batch_of_8 created and added to store Str_ATL_2D_store queue at time 0
+<class '__main__.ATLComponent'> Stringer_top_8_batch_of_8 created and added to store Str_ATL_2D_store queue at time 0
+<class '__main__.ATLComponent'> Stringer_top_9_batch_of_8 created and added to store Str_ATL_2D_store queue at time 0
+<class '__main__.ATLComponent'> Stringer_top_10_batch_of_8 created and added to store Str_ATL_2D_store queue at time 0
+ATLComponent Stringer_top_0_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BCD0> at time 0
+Preparing machine Str_ATL_2D_0 (will take time 80) at time 0
+ATLComponent Stringer_top_1_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BCF0> at time 0
+Preparing machine Str_ATL_2D_1 (will take time 80) at time 0
+ATLComponent Stringer_top_2_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD10> at time 0
+Preparing machine Str_ATL_2D_2 (will take time 80) at time 0
+ATLComponent Stringer_top_3_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD30> at time 0
+Preparing machine Str_ATL_2D_3 (will take time 80) at time 0
+ATLComponent Stringer_top_4_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD50> at time 0
+Preparing machine Str_ATL_2D_4 (will take time 80) at time 0
+ATLComponent Stringer_top_5_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD70> at time 0
+Preparing machine Str_ATL_2D_5 (will take time 80) at time 0
+ATLComponent Stringer_top_6_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD90> at time 0
+Preparing machine Str_ATL_2D_6 (will take time 80) at time 0
+ATLComponent Stringer_top_7_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BDB0> at time 0
+Preparing machine Str_ATL_2D_7 (will take time 80) at time 0
+ATLComponent Stringer_top_8_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BDD0> at time 0
+Preparing machine Str_ATL_2D_8 (will take time 80) at time 0
+Created part Stringer_top_0_batch_of_8 in machine Str_ATL_2D_0 at time 87.62
+ATLComponent Stringer_top_9_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BCD0> at time 87.62
+Preparing machine Str_ATL_2D_0 (will take time 80) at time 87.62
+<class '__main__.ATLComponent'> Stringer_top_0_batch_of_8 created and added to store Str_ATL_2D_store queue at time 87.62
+Created part Stringer_top_1_batch_of_8 in machine Str_ATL_2D_1 at time 102.59
+ATLComponent Stringer_top_10_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BCF0> at time 102.59
+Preparing machine Str_ATL_2D_1 (will take time 80) at time 102.59
+<class '__main__.ATLComponent'> Stringer_top_1_batch_of_8 created and added to store Str_ATL_2D_store queue at time 102.59
+Created part Stringer_top_2_batch_of_8 in machine Str_ATL_2D_2 at time 106.82
+ATLComponent Stringer_top_0_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD10> at time 106.82
+Preparing machine Str_ATL_2D_2 (will take time 80) at time 106.82
+<class '__main__.ATLComponent'> Stringer_top_2_batch_of_8 created and added to store Str_ATL_2D_store queue at time 106.82
+Created part Stringer_top_8_batch_of_8 in machine Str_ATL_2D_8 at time 112.92
+ATLComponent Stringer_top_1_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BDD0> at time 112.92
+Preparing machine Str_ATL_2D_8 (will take time 80) at time 112.92
+<class '__main__.ATLComponent'> Stringer_top_3_batch_of_8 created and added to store Str_ATL_2D_store queue at time 112.92
+Created part Stringer_top_3_batch_of_8 in machine Str_ATL_2D_3 at time 120.91
+ATLComponent Stringer_top_2_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD30> at time 120.91
+Preparing machine Str_ATL_2D_3 (will take time 80) at time 120.91
+<class '__main__.ATLComponent'> Stringer_top_4_batch_of_8 created and added to store Str_ATL_2D_store queue at time 120.91
+Created part Stringer_top_7_batch_of_8 in machine Str_ATL_2D_7 at time 125.79
+ATLComponent Stringer_top_3_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BDB0> at time 125.79
+Preparing machine Str_ATL_2D_7 (will take time 80) at time 125.79
+<class '__main__.ATLComponent'> Stringer_top_5_batch_of_8 created and added to store Str_ATL_2D_store queue at time 125.79
+Created part Stringer_top_6_batch_of_8 in machine Str_ATL_2D_6 at time 132.13
+ATLComponent Stringer_top_4_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD90> at time 132.13
+Preparing machine Str_ATL_2D_6 (will take time 80) at time 132.13
+<class '__main__.ATLComponent'> Stringer_top_6_batch_of_8 created and added to store Str_ATL_2D_store queue at time 132.13
+Created part Stringer_top_4_batch_of_8 in machine Str_ATL_2D_4 at time 135.0
+ATLComponent Stringer_top_5_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD50> at time 135.0
+Preparing machine Str_ATL_2D_4 (will take time 80) at time 135.0
+<class '__main__.ATLComponent'> Stringer_top_7_batch_of_8 created and added to store Str_ATL_2D_store queue at time 135.0
+Created part Stringer_top_5_batch_of_8 in machine Str_ATL_2D_5 at time 140.9
+ATLComponent Stringer_top_6_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD70> at time 140.9
+Preparing machine Str_ATL_2D_5 (will take time 80) at time 140.9
+<class '__main__.ATLComponent'> Stringer_top_8_batch_of_8 created and added to store Str_ATL_2D_store queue at time 140.9
+Created part Stringer_top_9_batch_of_8 in machine Str_ATL_2D_0 at time 189.66
+ATLComponent Stringer_top_7_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BCD0> at time 189.66
+Preparing machine Str_ATL_2D_0 (will take time 80) at time 189.66
+<class '__main__.ATLComponent'> Stringer_top_9_batch_of_8 created and added to store Str_ATL_2D_store queue at time 189.66
+Created part Stringer_top_10_batch_of_8 in machine Str_ATL_2D_1 at time 192.71
+ATLComponent Stringer_top_8_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BCF0> at time 192.71
+Preparing machine Str_ATL_2D_1 (will take time 80) at time 192.71
+<class '__main__.ATLComponent'> Stringer_top_10_batch_of_8 created and added to store Str_ATL_2D_store queue at time 192.71
+Created part Stringer_top_0_batch_of_8 in machine Str_ATL_2D_2 at time 194.44
+ATLComponent Stringer_top_9_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD10> at time 194.44
+Preparing machine Str_ATL_2D_2 (will take time 80) at time 194.44
+<class '__main__.ATLComponent'> Stringer_top_0_batch_of_8 created and added to store Str_ATL_2D_store queue at time 194.44
+Created part Stringer_top_1_batch_of_8 in machine Str_ATL_2D_8 at time 215.51
+ATLComponent Stringer_top_10_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BDD0> at time 215.51
+Preparing machine Str_ATL_2D_8 (will take time 80) at time 215.51
+<class '__main__.ATLComponent'> Stringer_top_1_batch_of_8 created and added to store Str_ATL_2D_store queue at time 215.51
+Created part Stringer_top_2_batch_of_8 in machine Str_ATL_2D_3 at time 227.73
+ATLComponent Stringer_top_0_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD30> at time 227.73
+Preparing machine Str_ATL_2D_3 (will take time 80) at time 227.73
+<class '__main__.ATLComponent'> Stringer_top_2_batch_of_8 created and added to store Str_ATL_2D_store queue at time 227.73
+Created part Stringer_top_3_batch_of_8 in machine Str_ATL_2D_7 at time 246.7
+ATLComponent Stringer_top_1_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BDB0> at time 246.7
+Preparing machine Str_ATL_2D_7 (will take time 80) at time 246.7
+<class '__main__.ATLComponent'> Stringer_top_3_batch_of_8 created and added to store Str_ATL_2D_store queue at time 246.7
+Created part Stringer_top_4_batch_of_8 in machine Str_ATL_2D_6 at time 267.13
+ATLComponent Stringer_top_2_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD90> at time 267.13
+Preparing machine Str_ATL_2D_6 (will take time 80) at time 267.13
+<class '__main__.ATLComponent'> Stringer_top_4_batch_of_8 created and added to store Str_ATL_2D_store queue at time 267.13
+Created part Stringer_top_6_batch_of_8 in machine Str_ATL_2D_5 at time 273.03
+ATLComponent Stringer_top_3_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD70> at time 273.03
+Preparing machine Str_ATL_2D_5 (will take time 80) at time 273.03
+<class '__main__.ATLComponent'> Stringer_top_5_batch_of_8 created and added to store Str_ATL_2D_store queue at time 273.03
+Created part Stringer_top_5_batch_of_8 in machine Str_ATL_2D_4 at time 275.9
+ATLComponent Stringer_top_4_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD50> at time 275.9
+Preparing machine Str_ATL_2D_4 (will take time 80) at time 275.9
+<class '__main__.ATLComponent'> Stringer_top_6_batch_of_8 created and added to store Str_ATL_2D_store queue at time 275.9
+Created part Stringer_top_9_batch_of_8 in machine Str_ATL_2D_2 at time 296.48
+ATLComponent Stringer_top_5_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD10> at time 296.48
+Preparing machine Str_ATL_2D_2 (will take time 80) at time 296.48
+<class '__main__.ATLComponent'> Stringer_top_7_batch_of_8 created and added to store Str_ATL_2D_store queue at time 296.48
+Created part Stringer_top_10_batch_of_8 in machine Str_ATL_2D_8 at time 305.63
+ATLComponent Stringer_top_6_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BDD0> at time 305.63
+Preparing machine Str_ATL_2D_8 (will take time 80) at time 305.63
+<class '__main__.ATLComponent'> Stringer_top_8_batch_of_8 created and added to store Str_ATL_2D_store queue at time 305.63
+Created part Stringer_top_8_batch_of_8 in machine Str_ATL_2D_1 at time 305.63
+ATLComponent Stringer_top_7_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BCF0> at time 305.63
+Preparing machine Str_ATL_2D_1 (will take time 80) at time 305.63
+<class '__main__.ATLComponent'> Stringer_top_9_batch_of_8 created and added to store Str_ATL_2D_store queue at time 305.63
+Created part Stringer_top_0_batch_of_8 in machine Str_ATL_2D_3 at time 315.35
+ATLComponent Stringer_top_8_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD30> at time 315.35
+Preparing machine Str_ATL_2D_3 (will take time 80) at time 315.35
+<class '__main__.ATLComponent'> Stringer_top_10_batch_of_8 created and added to store Str_ATL_2D_store queue at time 315.35
+Created part Stringer_top_7_batch_of_8 in machine Str_ATL_2D_0 at time 315.45
+ATLComponent Stringer_top_9_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BCD0> at time 315.45
+Preparing machine Str_ATL_2D_0 (will take time 80) at time 315.45
+<class '__main__.ATLComponent'> Stringer_top_0_batch_of_8 created and added to store Str_ATL_2D_store queue at time 315.45
+Created part Stringer_top_1_batch_of_8 in machine Str_ATL_2D_7 at time 349.29
+ATLComponent Stringer_top_10_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BDB0> at time 349.29
+Preparing machine Str_ATL_2D_7 (will take time 80) at time 349.29
+<class '__main__.ATLComponent'> Stringer_top_1_batch_of_8 created and added to store Str_ATL_2D_store queue at time 349.29
+Created part Stringer_top_2_batch_of_8 in machine Str_ATL_2D_6 at time 373.95
+ATLComponent Stringer_top_0_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD90> at time 373.95
+Preparing machine Str_ATL_2D_6 (will take time 80) at time 373.95
+<class '__main__.ATLComponent'> Stringer_top_2_batch_of_8 created and added to store Str_ATL_2D_store queue at time 373.95
+Created part Stringer_top_3_batch_of_8 in machine Str_ATL_2D_5 at time 393.94
+ATLComponent Stringer_top_1_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD70> at time 393.94
+Preparing machine Str_ATL_2D_5 (will take time 80) at time 393.94
+<class '__main__.ATLComponent'> Stringer_top_3_batch_of_8 created and added to store Str_ATL_2D_store queue at time 393.94
+Created part Stringer_top_4_batch_of_8 in machine Str_ATL_2D_4 at time 410.9
+ATLComponent Stringer_top_2_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD50> at time 410.9
+Preparing machine Str_ATL_2D_4 (will take time 80) at time 410.9
+<class '__main__.ATLComponent'> Stringer_top_4_batch_of_8 created and added to store Str_ATL_2D_store queue at time 410.9
+Created part Stringer_top_9_batch_of_8 in machine Str_ATL_2D_0 at time 417.49
+ATLComponent Stringer_top_3_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BCD0> at time 417.49
+Preparing machine Str_ATL_2D_0 (will take time 80) at time 417.49
+<class '__main__.ATLComponent'> Stringer_top_5_batch_of_8 created and added to store Str_ATL_2D_store queue at time 417.49
+Created part Stringer_top_8_batch_of_8 in machine Str_ATL_2D_3 at time 428.27
+ATLComponent Stringer_top_4_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD30> at time 428.27
+Preparing machine Str_ATL_2D_3 (will take time 80) at time 428.27
+<class '__main__.ATLComponent'> Stringer_top_6_batch_of_8 created and added to store Str_ATL_2D_store queue at time 428.27
+Created part Stringer_top_7_batch_of_8 in machine Str_ATL_2D_1 at time 431.42
+ATLComponent Stringer_top_5_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BCF0> at time 431.42
+Preparing machine Str_ATL_2D_1 (will take time 80) at time 431.42
+<class '__main__.ATLComponent'> Stringer_top_7_batch_of_8 created and added to store Str_ATL_2D_store queue at time 431.42
+Created part Stringer_top_5_batch_of_8 in machine Str_ATL_2D_2 at time 437.38
+ATLComponent Stringer_top_6_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD10> at time 437.38
+Preparing machine Str_ATL_2D_2 (will take time 80) at time 437.38
+<class '__main__.ATLComponent'> Stringer_top_8_batch_of_8 created and added to store Str_ATL_2D_store queue at time 437.38
+Created part Stringer_top_6_batch_of_8 in machine Str_ATL_2D_8 at time 437.76
+ATLComponent Stringer_top_7_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BDD0> at time 437.76
+Preparing machine Str_ATL_2D_8 (will take time 80) at time 437.76
+<class '__main__.ATLComponent'> Stringer_top_9_batch_of_8 created and added to store Str_ATL_2D_store queue at time 437.76
+Created part Stringer_top_10_batch_of_8 in machine Str_ATL_2D_7 at time 439.41
+ATLComponent Stringer_top_8_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BDB0> at time 439.41
+Preparing machine Str_ATL_2D_7 (will take time 80) at time 439.41
+<class '__main__.ATLComponent'> Stringer_top_10_batch_of_8 created and added to store Str_ATL_2D_store queue at time 439.41
+Created part Stringer_top_0_batch_of_8 in machine Str_ATL_2D_6 at time 461.57
+ATLComponent Stringer_top_9_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD90> at time 461.57
+Preparing machine Str_ATL_2D_6 (will take time 80) at time 461.57
+<class '__main__.ATLComponent'> Stringer_top_0_batch_of_8 created and added to store Str_ATL_2D_store queue at time 461.57
+Created part Stringer_top_1_batch_of_8 in machine Str_ATL_2D_5 at time 496.53
+ATLComponent Stringer_top_10_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD70> at time 496.53
+Preparing machine Str_ATL_2D_5 (will take time 80) at time 496.53
+<class '__main__.ATLComponent'> Stringer_top_1_batch_of_8 created and added to store Str_ATL_2D_store queue at time 496.53
+Created part Stringer_top_2_batch_of_8 in machine Str_ATL_2D_4 at time 517.72
+ATLComponent Stringer_top_0_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD50> at time 517.72
+Preparing machine Str_ATL_2D_4 (will take time 80) at time 517.72
+<class '__main__.ATLComponent'> Stringer_top_2_batch_of_8 created and added to store Str_ATL_2D_store queue at time 517.72
+Created part Stringer_top_3_batch_of_8 in machine Str_ATL_2D_0 at time 538.4
+ATLComponent Stringer_top_1_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BCD0> at time 538.4
+Preparing machine Str_ATL_2D_0 (will take time 80) at time 538.4
+<class '__main__.ATLComponent'> Stringer_top_3_batch_of_8 created and added to store Str_ATL_2D_store queue at time 538.4
+Created part Stringer_top_8_batch_of_8 in machine Str_ATL_2D_7 at time 552.33
+ATLComponent Stringer_top_2_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BDB0> at time 552.33
+Preparing machine Str_ATL_2D_7 (will take time 80) at time 552.33
+<class '__main__.ATLComponent'> Stringer_top_4_batch_of_8 created and added to store Str_ATL_2D_store queue at time 552.33
+Created part Stringer_top_4_batch_of_8 in machine Str_ATL_2D_3 at time 563.27
+ATLComponent Stringer_top_3_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD30> at time 563.27
+Preparing machine Str_ATL_2D_3 (will take time 80) at time 563.27
+<class '__main__.ATLComponent'> Stringer_top_5_batch_of_8 created and added to store Str_ATL_2D_store queue at time 563.27
+Created part Stringer_top_7_batch_of_8 in machine Str_ATL_2D_8 at time 563.55
+ATLComponent Stringer_top_4_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BDD0> at time 563.55
+Preparing machine Str_ATL_2D_8 (will take time 80) at time 563.55
+<class '__main__.ATLComponent'> Stringer_top_6_batch_of_8 created and added to store Str_ATL_2D_store queue at time 563.55
+Created part Stringer_top_9_batch_of_8 in machine Str_ATL_2D_6 at time 563.61
+ATLComponent Stringer_top_5_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD90> at time 563.61
+Preparing machine Str_ATL_2D_6 (will take time 80) at time 563.61
+<class '__main__.ATLComponent'> Stringer_top_7_batch_of_8 created and added to store Str_ATL_2D_store queue at time 563.61
+Created part Stringer_top_6_batch_of_8 in machine Str_ATL_2D_2 at time 569.51
+ATLComponent Stringer_top_6_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD10> at time 569.51
+Preparing machine Str_ATL_2D_2 (will take time 80) at time 569.51
+<class '__main__.ATLComponent'> Stringer_top_8_batch_of_8 created and added to store Str_ATL_2D_store queue at time 569.51
+Created part Stringer_top_5_batch_of_8 in machine Str_ATL_2D_1 at time 572.32
+ATLComponent Stringer_top_7_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BCF0> at time 572.32
+Preparing machine Str_ATL_2D_1 (will take time 80) at time 572.32
+<class '__main__.ATLComponent'> Stringer_top_9_batch_of_8 created and added to store Str_ATL_2D_store queue at time 572.32
+Created part Stringer_top_10_batch_of_8 in machine Str_ATL_2D_5 at time 586.65
+ATLComponent Stringer_top_8_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD70> at time 586.65
+Preparing machine Str_ATL_2D_5 (will take time 80) at time 586.65
+<class '__main__.ATLComponent'> Stringer_top_10_batch_of_8 created and added to store Str_ATL_2D_store queue at time 586.65
+Created part Stringer_top_0_batch_of_8 in machine Str_ATL_2D_4 at time 605.34
+ATLComponent Stringer_top_9_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD50> at time 605.34
+Preparing machine Str_ATL_2D_4 (will take time 80) at time 605.34
+<class '__main__.ATLComponent'> Stringer_top_0_batch_of_8 created and added to store Str_ATL_2D_store queue at time 605.34
+Created part Stringer_top_1_batch_of_8 in machine Str_ATL_2D_0 at time 640.99
+ATLComponent Stringer_top_10_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BCD0> at time 640.99
+Preparing machine Str_ATL_2D_0 (will take time 80) at time 640.99
+<class '__main__.ATLComponent'> Stringer_top_1_batch_of_8 created and added to store Str_ATL_2D_store queue at time 640.99
+Created part Stringer_top_2_batch_of_8 in machine Str_ATL_2D_7 at time 659.15
+ATLComponent Stringer_top_0_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BDB0> at time 659.15
+Preparing machine Str_ATL_2D_7 (will take time 80) at time 659.15
+<class '__main__.ATLComponent'> Stringer_top_2_batch_of_8 created and added to store Str_ATL_2D_store queue at time 659.15
+Created part Stringer_top_3_batch_of_8 in machine Str_ATL_2D_3 at time 684.18
+ATLComponent Stringer_top_1_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD30> at time 684.18
+Preparing machine Str_ATL_2D_3 (will take time 80) at time 684.18
+<class '__main__.ATLComponent'> Stringer_top_3_batch_of_8 created and added to store Str_ATL_2D_store queue at time 684.18
+Created part Stringer_top_7_batch_of_8 in machine Str_ATL_2D_1 at time 698.11
+ATLComponent Stringer_top_2_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BCF0> at time 698.11
+Preparing machine Str_ATL_2D_1 (will take time 80) at time 698.11
+<class '__main__.ATLComponent'> Stringer_top_4_batch_of_8 created and added to store Str_ATL_2D_store queue at time 698.11
+Created part Stringer_top_4_batch_of_8 in machine Str_ATL_2D_8 at time 698.55
+ATLComponent Stringer_top_3_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BDD0> at time 698.55
+Preparing machine Str_ATL_2D_8 (will take time 80) at time 698.55
+<class '__main__.ATLComponent'> Stringer_top_5_batch_of_8 created and added to store Str_ATL_2D_store queue at time 698.55
+Created part Stringer_top_8_batch_of_8 in machine Str_ATL_2D_5 at time 699.57
+ATLComponent Stringer_top_4_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD70> at time 699.57
+Preparing machine Str_ATL_2D_5 (will take time 80) at time 699.57
+<class '__main__.ATLComponent'> Stringer_top_6_batch_of_8 created and added to store Str_ATL_2D_store queue at time 699.57
+Created part Stringer_top_6_batch_of_8 in machine Str_ATL_2D_2 at time 701.64
+ATLComponent Stringer_top_5_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD10> at time 701.64
+Preparing machine Str_ATL_2D_2 (will take time 80) at time 701.64
+<class '__main__.ATLComponent'> Stringer_top_7_batch_of_8 created and added to store Str_ATL_2D_store queue at time 701.64
+Created part Stringer_top_5_batch_of_8 in machine Str_ATL_2D_6 at time 704.51
+ATLComponent Stringer_top_6_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD90> at time 704.51
+Preparing machine Str_ATL_2D_6 (will take time 80) at time 704.51
+<class '__main__.ATLComponent'> Stringer_top_8_batch_of_8 created and added to store Str_ATL_2D_store queue at time 704.51
+Created part Stringer_top_9_batch_of_8 in machine Str_ATL_2D_4 at time 707.38
+ATLComponent Stringer_top_7_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD50> at time 707.38
+Preparing machine Str_ATL_2D_4 (will take time 80) at time 707.38
+<class '__main__.ATLComponent'> Stringer_top_9_batch_of_8 created and added to store Str_ATL_2D_store queue at time 707.38
+Created part Stringer_top_10_batch_of_8 in machine Str_ATL_2D_0 at time 731.11
+ATLComponent Stringer_top_8_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BCD0> at time 731.11
+Preparing machine Str_ATL_2D_0 (will take time 80) at time 731.11
+<class '__main__.ATLComponent'> Stringer_top_10_batch_of_8 created and added to store Str_ATL_2D_store queue at time 731.11
+Created part Stringer_top_0_batch_of_8 in machine Str_ATL_2D_7 at time 746.77
+ATLComponent Stringer_top_9_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BDB0> at time 746.77
+Preparing machine Str_ATL_2D_7 (will take time 80) at time 746.77
+<class '__main__.ATLComponent'> Stringer_top_0_batch_of_8 created and added to store Str_ATL_2D_store queue at time 746.77
+Created part Stringer_top_1_batch_of_8 in machine Str_ATL_2D_3 at time 786.77
+ATLComponent Stringer_top_10_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD30> at time 786.77
+Preparing machine Str_ATL_2D_3 (will take time 80) at time 786.77
+<class '__main__.ATLComponent'> Stringer_top_1_batch_of_8 created and added to store Str_ATL_2D_store queue at time 786.77
+Created part Stringer_top_2_batch_of_8 in machine Str_ATL_2D_1 at time 804.93
+ATLComponent Stringer_top_0_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BCF0> at time 804.93
+Preparing machine Str_ATL_2D_1 (will take time 80) at time 804.93
+<class '__main__.ATLComponent'> Stringer_top_2_batch_of_8 created and added to store Str_ATL_2D_store queue at time 804.93
+Created part Stringer_top_3_batch_of_8 in machine Str_ATL_2D_8 at time 819.46
+ATLComponent Stringer_top_1_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BDD0> at time 819.46
+Preparing machine Str_ATL_2D_8 (will take time 80) at time 819.46
+<class '__main__.ATLComponent'> Stringer_top_3_batch_of_8 created and added to store Str_ATL_2D_store queue at time 819.46
+Created part Stringer_top_7_batch_of_8 in machine Str_ATL_2D_4 at time 833.17
+ATLComponent Stringer_top_2_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD50> at time 833.17
+Preparing machine Str_ATL_2D_4 (will take time 80) at time 833.17
+<class '__main__.ATLComponent'> Stringer_top_4_batch_of_8 created and added to store Str_ATL_2D_store queue at time 833.17
+Created part Stringer_top_4_batch_of_8 in machine Str_ATL_2D_5 at time 834.57
+ATLComponent Stringer_top_3_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD70> at time 834.57
+Preparing machine Str_ATL_2D_5 (will take time 80) at time 834.57
+<class '__main__.ATLComponent'> Stringer_top_5_batch_of_8 created and added to store Str_ATL_2D_store queue at time 834.57
+Created part Stringer_top_6_batch_of_8 in machine Str_ATL_2D_6 at time 836.64
+ATLComponent Stringer_top_4_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD90> at time 836.64
+Preparing machine Str_ATL_2D_6 (will take time 80) at time 836.64
+<class '__main__.ATLComponent'> Stringer_top_6_batch_of_8 created and added to store Str_ATL_2D_store queue at time 836.64
+Created part Stringer_top_5_batch_of_8 in machine Str_ATL_2D_2 at time 842.54
+ATLComponent Stringer_top_5_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD10> at time 842.54
+Preparing machine Str_ATL_2D_2 (will take time 80) at time 842.54
+<class '__main__.ATLComponent'> Stringer_top_7_batch_of_8 created and added to store Str_ATL_2D_store queue at time 842.54
+Created part Stringer_top_8_batch_of_8 in machine Str_ATL_2D_0 at time 844.03
+ATLComponent Stringer_top_6_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BCD0> at time 844.03
+Preparing machine Str_ATL_2D_0 (will take time 80) at time 844.03
+<class '__main__.ATLComponent'> Stringer_top_8_batch_of_8 created and added to store Str_ATL_2D_store queue at time 844.03
+Created part Stringer_top_9_batch_of_8 in machine Str_ATL_2D_7 at time 848.81
+ATLComponent Stringer_top_7_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BDB0> at time 848.81
+Preparing machine Str_ATL_2D_7 (will take time 80) at time 848.81
+<class '__main__.ATLComponent'> Stringer_top_9_batch_of_8 created and added to store Str_ATL_2D_store queue at time 848.81
+Created part Stringer_top_10_batch_of_8 in machine Str_ATL_2D_3 at time 876.89
+ATLComponent Stringer_top_8_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD30> at time 876.89
+Preparing machine Str_ATL_2D_3 (will take time 80) at time 876.89
+<class '__main__.ATLComponent'> Stringer_top_10_batch_of_8 created and added to store Str_ATL_2D_store queue at time 876.89
+Created part Stringer_top_0_batch_of_8 in machine Str_ATL_2D_1 at time 892.55
+ATLComponent Stringer_top_9_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BCF0> at time 892.55
+Preparing machine Str_ATL_2D_1 (will take time 80) at time 892.55
+<class '__main__.ATLComponent'> Stringer_top_0_batch_of_8 created and added to store Str_ATL_2D_store queue at time 892.55
+Created part Stringer_top_1_batch_of_8 in machine Str_ATL_2D_8 at time 922.05
+ATLComponent Stringer_top_10_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BDD0> at time 922.05
+Preparing machine Str_ATL_2D_8 (will take time 80) at time 922.05
+<class '__main__.ATLComponent'> Stringer_top_1_batch_of_8 created and added to store Str_ATL_2D_store queue at time 922.05
+Created part Stringer_top_2_batch_of_8 in machine Str_ATL_2D_4 at time 939.99
+ATLComponent Stringer_top_0_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD50> at time 939.99
+Preparing machine Str_ATL_2D_4 (will take time 80) at time 939.99
+<class '__main__.ATLComponent'> Stringer_top_2_batch_of_8 created and added to store Str_ATL_2D_store queue at time 939.99
+Created part Stringer_top_3_batch_of_8 in machine Str_ATL_2D_5 at time 955.48
+ATLComponent Stringer_top_1_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD70> at time 955.48
+Preparing machine Str_ATL_2D_5 (will take time 80) at time 955.48
+<class '__main__.ATLComponent'> Stringer_top_3_batch_of_8 created and added to store Str_ATL_2D_store queue at time 955.48
+Created part Stringer_top_4_batch_of_8 in machine Str_ATL_2D_6 at time 971.64
+ATLComponent Stringer_top_2_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD90> at time 971.64
+Preparing machine Str_ATL_2D_6 (will take time 80) at time 971.64
+<class '__main__.ATLComponent'> Stringer_top_4_batch_of_8 created and added to store Str_ATL_2D_store queue at time 971.64
+Created part Stringer_top_7_batch_of_8 in machine Str_ATL_2D_7 at time 974.6
+ATLComponent Stringer_top_3_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BDB0> at time 974.6
+Preparing machine Str_ATL_2D_7 (will take time 80) at time 974.6
+<class '__main__.ATLComponent'> Stringer_top_5_batch_of_8 created and added to store Str_ATL_2D_store queue at time 974.6
+Created part Stringer_top_6_batch_of_8 in machine Str_ATL_2D_0 at time 976.16
+ATLComponent Stringer_top_4_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BCD0> at time 976.16
+Preparing machine Str_ATL_2D_0 (will take time 80) at time 976.16
+<class '__main__.ATLComponent'> Stringer_top_6_batch_of_8 created and added to store Str_ATL_2D_store queue at time 976.16
+Created part Stringer_top_5_batch_of_8 in machine Str_ATL_2D_2 at time 983.44
+ATLComponent Stringer_top_5_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD10> at time 983.44
+Preparing machine Str_ATL_2D_2 (will take time 80) at time 983.44
+<class '__main__.ATLComponent'> Stringer_top_7_batch_of_8 created and added to store Str_ATL_2D_store queue at time 983.44
+Created part Stringer_top_8_batch_of_8 in machine Str_ATL_2D_3 at time 989.81
+ATLComponent Stringer_top_6_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BD30> at time 989.81
+Preparing machine Str_ATL_2D_3 (will take time 80) at time 989.81
+<class '__main__.ATLComponent'> Stringer_top_8_batch_of_8 created and added to store Str_ATL_2D_store queue at time 989.81
+Created part Stringer_top_9_batch_of_8 in machine Str_ATL_2D_1 at time 994.59
+ATLComponent Stringer_top_7_batch_of_8 gets tools, labour and machine <__main__.Machine object at 0x0250BCF0> at time 994.59
+Preparing machine Str_ATL_2D_1 (will take time 80) at time 994.59
+<class '__main__.ATLComponent'> Stringer_top_9_batch_of_8 created and added to store Str_ATL_2D_store queue at time 994.59
