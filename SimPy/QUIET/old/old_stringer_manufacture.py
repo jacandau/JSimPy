@@ -9,9 +9,8 @@ Scenario:
 import simpy
 import contextlib
 
-from log import Logger
+from QUIET.log import Logger
 import itertools
-from collections import OrderedDict
 
 
 
@@ -31,9 +30,6 @@ types = ['Stringer']    # ['Stringer', 'Spar']
 sides = ['top']         # ['top', 'bot']
 numbers = [k for k in range(NUM_STRINGERS)]
 
-
-# Process logic from inputs
-process_logic = OrderedDict({'Stringer':{}})
 
 used_tools = []
 
@@ -60,7 +56,7 @@ class ComponentCreator(object):
 
 
 #TODO: define stringer queue creation. See example below
-class Component(object):
+class ATLComponent(object):
     
     class_instances = []
     
@@ -94,18 +90,14 @@ class Component(object):
         # TODO: return resource labour with 2D ATL props
         return None
     
-    def get_products(self):
-        # TODO: return products for each process (parts and soiled tools). Think of an input structure from QUIET data to do this automatically
-        parts = Component()
-    
-    def layup(self, env, machine_store, connections):
+    def layup(self, env, machine_store):
         """ The component (has a *name*) arrives at the machine and requests
         the tools and labour.
         
         It then starts the layup process, finishes, changes its status and
         moves to the buffer (Resource) as a finished part.
         """
-        connections.build_process_connections(self)
+        
         # Request machine to store
         machine = yield machine_store.get()
         
@@ -122,8 +114,7 @@ class Component(object):
         self.component_creator.create_component()
         
         # send to buffer or next process
-        #connections.
-        #yield env.process(buffer_handler.put(products))
+        #yield env.process(machine.working(self))
         
 class Machine(object):
     """ Machine that lays the stringer laminates.
@@ -175,23 +166,6 @@ class Machine(object):
         
         yield self.env.timeout(STRINGER_DELAY)
 
-class BufferHandler(object):
-    """ This class contains the structure of Stores and Resources to contain all the semi-products
-    and tools (new or used) in the system.
-    
-    It is responsible for storing and requesting parts and tools from the different buffers.
-    """
-    def __init__(self,  stores = []):
-        self.stores = stores
-    
-    def get(self, *args):
-        """ Get the parts and tools contained in *args from the stores.
-        """
-        pass
-        # Identify store and resource for each
-        
-        # Request sequentially (logic is that everything is needed and independent so the order won't affect).
-
 # Create elements in the model
 env = simpy.Environment()
 machine_resource = simpy.Resource(env, capacity = NUM_MACHINES)
@@ -199,13 +173,7 @@ machines = [Machine(env, 'Str_ATL_2D_%s' % (k), machine_resource) for k in range
 machine_store = simpy.Store(env, len(machines))
 machine_store.items = machines
 machine_store.name = 'Str_ATL_2D_store'
-component_creator = ComponentCreator(env, machine_store, Component, types, sides, numbers)
-
-
-# Create buffers (process to be automated)
-
-buffer_handler = BufferHandler()
-
+component_creator = ComponentCreator(env, machine_store, ATLComponent, types, sides, numbers)
 
 # Requests first stringers before simulation starts
 for stringer in range(NUM_MACHINES+2):
