@@ -6,6 +6,8 @@ Created on 17 Sep 2015
 
 import simpy
 import collections
+from log import Logger
+from simpy.events import Event
 
 def machine_store(env, machines, name):
     """ Create a machine store with a given name and list of machines to be included.
@@ -18,9 +20,32 @@ def machine_store(env, machines, name):
     
     return store
 
+'''# Filter Store
+def user(machine):
+    m = yield machine.get()
+    print(m)
+    yield machine.put(m)
+
+    m = yield machine.get(lambda m: m['id'] == 1)
+    print(m)
+    yield machine.put(m)
+
+    m = yield machine.get(lambda m: m['health'] > 98)
+    print(m)
+    yield machine.put(m)
 
 
-class MyResource(object):
+env = simpy.Environment()
+machine = simpy.FilterStore(env, 3)
+machine.put({'id': 0, 'health': 100})
+machine.put({'id': 1, 'health': 95})
+machine.put({'id': 2, 'health': 97.2})
+
+env.process(user(machine))
+
+env.run()'''
+
+'''class MyResource(object):
     """ Customised resource extending the simpy.resource behaviour.
      
     """
@@ -31,22 +56,23 @@ class MyResource(object):
         # take the one bit of capacity away
         self.contained_class = contained_part
         self.times_creation = collections.deque()
-        
-        
+            
     def get(self):
         """ Request from the resource.
         """
         
-        yield self._resource.get()
-        yield self.times_creation.popleft()
-        
+        resource = yield self._resource.get()
+        Logger().add_event('Contained resource %s released at time %s\n' % (resource, self.env.now))
+        self.times_creation.popleft()        
         
         
     def put(self, item):
         """ Add to the resource.
         """
+        
         self._resource.items.append(item) # item has to be an event??
         self.times_creation.append(self.env.now)
+        Logger().add_event('Added resource %s at time %s\n' % (item, self.env.now))'''
         
 
 class Buffer(object):
@@ -62,17 +88,15 @@ class Buffer(object):
      - get_any(number = 1) # FIFO
      - get_newest(number = 1) # LIFO
     """
-    def __init__(self, env, name, resources = []):
+    def __init__(self, env, name, store):
         self.env = env
         self.name = name        
-        self.resources = resources
+        self.store = store
 
         
-    def get(self, part, number = 1):
-        try:
-            resource = [resource for resource in self.resources if resource.contained_class == part.__class__][0]
-        except IndexError, e:
-            raise Exception(e.message, 'The part requested does not exist in the Buffer %s' % (self.name))
-        while range(number):
-            yield resource.request()
+    def get(self, part):
+        my_class = part.__class__
+        part = yield self.store.get(lambda m: m['class'] == my_class)
+        
+    
         
