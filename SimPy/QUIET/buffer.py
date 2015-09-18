@@ -14,4 +14,7 @@ class Buffer(object):
      - get(name, number = 1)
      - get(one_of_each, number = 1)
      - put(name, number = 1)
+     - get_any(number = 1) # FIFO
+     - get_newest(number = 1) # LIFO
     """
+    def __init__(self, env, store = ):
